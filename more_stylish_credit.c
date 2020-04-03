@@ -84,6 +84,5 @@ int check_sum(long num, int len)
             c_sum += r;
         }
     }
-
     return c_sum;
 }
