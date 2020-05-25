@@ -1,2 +1,2 @@
 # Filter
-This is the sub-repostory of assignment named filter.
+This is the sub-repository of assignment named filter.
