@@ -154,8 +154,7 @@ void edges(int height, int width, RGBTRIPLE image[height][width])
             int Gy_r = image_s[2][0].rgbtRed - image_s[0][0].rgbtRed + 2 * (image_s[2][1].rgbtRed - image_s[0][1].rgbtRed) + image_s[2][2].rgbtRed - image_s[0][2].rgbtRed;
             int Gy_g = image_s[2][0].rgbtGreen - image_s[0][0].rgbtGreen + 2 * (image_s[2][1].rgbtGreen - image_s[0][1].rgbtGreen) + image_s[2][2].rgbtGreen - image_s[0][2].rgbtGreen; 
             int Gy_b = image_s[2][0].rgbtBlue - image_s[0][0].rgbtBlue + 2 * (image_s[2][1].rgbtBlue - image_s[0][1].rgbtBlue) + image_s[2][2].rgbtBlue - image_s[0][2].rgbtBlue;
-            
-            
+                        
             //update rgb values of this pixel
             int newRGB[3] = {0, 0, 0};
             
