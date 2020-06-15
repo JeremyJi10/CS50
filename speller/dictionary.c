@@ -14,7 +14,7 @@ typedef struct node
 }
 node;
 
-// Number of buckets in hash table (first try: create buckets for words starting with each character and having length of 1 to 45)
+// Number of buckets in hash table (create buckets for words starting with each character and having length of 1 to 45)
 const unsigned int N = 26 * 45;
 
 //counter of words in dictionary
@@ -121,7 +121,8 @@ bool unload(void)
             //create a cursor (node pointer) pointing the node to which table[i] is pointing.
             node* tmp = table[i];
 
-            //because tmp is also pointing to the first node of this linked list, so we can let table[i] point the second node (first node in next loop).
+            //because tmp is also pointing to the first node of this linked list now,
+            //so we can let table[i] point the second node (first node in next loop).
             table[i] = table[i]->next;
 
             //free the first node, which tmp is pointing now, of table[i].
