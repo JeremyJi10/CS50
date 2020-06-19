@@ -2,22 +2,23 @@
 finished assignments and practices of Harvard CS50
 
 ## Table of Contents
-* [Week 0 - Scratch](https://github.com/JeremyJi10/CS50/blob/master/PenaltyKicks.sb3)
-* Week 1 - C
+* Problem Set 0 (W0 - Scratch)
+  -[Scratch](https://github.com/JeremyJi10/CS50/blob/master/PenaltyKicks.sb3)
+* Problem Set 1 (W1 - C)
   - Mario
   - [Credit](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
-* Week 2 - Arrays
+* Problem Set 2 (W2 - Arrays)
   - [Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.c)
   - [Substitution](https://github.com/JeremyJi10/CS50/blob/master/substitution.c)
-* Week 3 - Algorithms
+* Problem Set 3 (W3 - Algorithms)
   - [Plurality](https://github.com/JeremyJi10/CS50/blob/master/plurality.c)
   - [Tideman](https://github.com/JeremyJi10/CS50/blob/master/tideman.c)
-* Week 4 - Memory
-  - [Filter](https://github.com/JeremyJi10/CS50/tree/master/filter)
+* Problem Set 4 (W4 - Memory)
+  - [Filter (More)](https://github.com/JeremyJi10/CS50/tree/master/filter)
   - [Recover](https://github.com/JeremyJi10/CS50/tree/master/recover)
-* Week 5 - Data Structures
+* Problem Set 5 (W5 - Data Structures)
   - [Speller](https://github.com/JeremyJi10/CS50/tree/master/speller)
-* Week 6 - Python
-  - Mario
-  - [Credit](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
-  - [Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.py)
+* Problem Set 6 (W6 - Python)
+  - Sentimental / Mario (More)
+  - [Sentimental / Credit (More)](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
+  - [Sentimental / Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.py)
