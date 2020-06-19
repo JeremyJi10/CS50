@@ -3,7 +3,7 @@ finished assignments and practices of Harvard CS50
 
 ## Table of Contents
 * Problem Set 0 (W0 - Scratch)
-  -[Scratch](https://github.com/JeremyJi10/CS50/blob/master/PenaltyKicks.sb3)
+  - [Scratch](https://github.com/JeremyJi10/CS50/blob/master/PenaltyKicks.sb3)
 * Problem Set 1 (W1 - C)
   - Mario
   - [Credit](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
