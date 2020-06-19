@@ -5,7 +5,7 @@ finished assignments and practices of Harvard CS50
 * Problem Set 0 (W0 - Scratch)
   - [Scratch](https://github.com/JeremyJi10/CS50/blob/master/PenaltyKicks.sb3)
 * Problem Set 1 (W1 - C)
-  - Mario
+  - Mario (More)
   - [Credit](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
 * Problem Set 2 (W2 - Arrays)
   - [Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.c)
@@ -20,5 +20,5 @@ finished assignments and practices of Harvard CS50
   - [Speller](https://github.com/JeremyJi10/CS50/tree/master/speller)
 * Problem Set 6 (W6 - Python)
   - Sentimental / Mario (More)
-  - [Sentimental / Credit (More)](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
+  - [Sentimental / Credit](https://github.com/JeremyJi10/CS50/blob/master/credit.py)
   - [Sentimental / Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.py)
