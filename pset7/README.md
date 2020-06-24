@@ -1,1 +1,2 @@
-# Problem Set 7 (W7 - SQL)
+## Problem Set 7
+Week 7 SQL
