@@ -24,7 +24,7 @@ finished assignments and practices of Harvard CS50
   - [Sentimental / Readability](https://github.com/JeremyJi10/CS50/blob/master/readability.py)
   - [DNA](https://github.com/JeremyJi10/CS50/tree/master/DNA)
 * Problems Set 7 (W7 - SQL)
-  - Movies
-  - Houses
+  - [Movies](https://github.com/JeremyJi10/CS50/tree/master/pset7/movies)
+  - [Houses](https://github.com/JeremyJi10/CS50/tree/master/pset7/houses)
 * Tracks
 * Final Project
